@@ -1,4 +1,7 @@
+(please look at the raw version)
+
 Access policy 
+
 -This program does not reside on the public internet. This service is exclusive to the company and the people associated with the company. This also requires the teammate to use the same account that the request was made for. The elk server (azure) will not work with computers that are not register with the azure services.
 
 -this service is under the ip address(   ) . To probably access this service you will need to use the public ip address for the services.
